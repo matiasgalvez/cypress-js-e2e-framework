@@ -1,0 +1,12 @@
+{
+  "dropdown": {
+    "optionOne": "Option 1",
+    "optionTwo": "Option 2"
+  },
+  "dynamicLoading": {
+    "expectedMessage": "Hello World!"
+  },
+  "javascriptAlerts": {
+    "promptText": "Cypress QA Portfolio"
+  }
+}
