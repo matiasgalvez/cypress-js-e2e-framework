@@ -1,8 +1,6 @@
 # Cypress JavaScript E2E Framework
 
-A professional Cypress E2E automation framework built with JavaScript for QA portfolio purposes.
-
-This project demonstrates Web UI automation best practices using a different public demo application from the Playwright portfolio repo.
+A professional Cypress E2E automation framework built with JavaScript.
 
 **Application under test:** https://the-internet.herokuapp.com
 
