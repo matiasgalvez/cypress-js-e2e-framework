@@ -1,5 +1,7 @@
 # Cypress JavaScript E2E Framework
 
+[![Cypress E2E Tests](https://github.com/matiasgalvez/cypress-js-e2e-framework/actions/workflows/cypress.yml/badge.svg)](https://github.com/matiasgalvez/cypress-js-e2e-framework/actions/workflows/cypress.yml)
+
 A professional Cypress E2E automation framework built with JavaScript.
 
 **Application under test:** https://the-internet.herokuapp.com
